@@ -1,1 +1,1 @@
-# bibipast
+permalink: /index.html
